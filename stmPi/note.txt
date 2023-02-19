@@ -1,0 +1,32 @@
+
+Kinematic Wrong by factory of 1/2
+encData
+A0_V1_R0
+A0_V1_R1
+A0_V-1_R0
+A0_V2_R0
+
+
+^ Above before PID Tune
+
+PID 1 = {1, 2, 3, 4, 5}
+PID 2 = {6}
+
+Set 0:
+-Open loop wrong kinematic with limit = 4000
+
+Set 1 (MAX_ACC = 1.0f * MOTOR TO PWM CMD):
+- Open Loop with limit = 4000
+- Closed Loop PID1 with rate limit and limit = 4000
+- Closed Loop PID1 without rate limit and limit = 4000
+- Right closed Loop PID1 without rate limit Left Open Loop and limit = 4000 // Mistake
+
+Set 2 (MAX_ACC = 10.0f * MOTOR TO PWM CMD & LIMIT = 6000):
+
+Set 3 (MAX_ACC = 3.0f * MOTOR TO PWM CMD & LIMIT = 6000):
+
+Set 4 (MAX_ACC = 1.5f * MOTOR TO PWM CMD & LIMIT = 6000)
+
+Set 5 (MAX_ACC = 1.5f * MOTOR TO PWM CMD & LIMIT = 6000 ENC Sleep Time = 0.05->0.015 Controller Sleep Time = 0.05->0.015)
+
+Set 6 (MAX_ACC = 1.5f * MOTOR TO PWM CMD & LIMIT = 6000 ENC Sleep Time = 0.05->0.015 Controller Sleep Time = 0.05->0.015)

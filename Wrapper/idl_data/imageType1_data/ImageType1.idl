@@ -1,0 +1,7 @@
+struct ImageType1
+{
+    unsigned short height;
+    unsigned short width;
+    unsigned short color;
+    sequence<octet> imgData;
+};

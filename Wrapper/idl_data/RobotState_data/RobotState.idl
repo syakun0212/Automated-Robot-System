@@ -1,0 +1,5 @@
+struct RobotState
+{
+    float steer_angle; // steering angle in radians
+    float velocity; // Velocity of robot
+};

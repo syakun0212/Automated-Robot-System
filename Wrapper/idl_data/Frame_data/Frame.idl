@@ -1,0 +1,11 @@
+struct Frame
+{
+    float x;
+    float xV;
+    float xA;
+    float y;
+    float yV;
+    float yA;
+    float yaw;
+    float w;
+};

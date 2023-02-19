@@ -1,0 +1,3 @@
+struct Message {
+    string message;
+};

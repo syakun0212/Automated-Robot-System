@@ -1,0 +1,10 @@
+struct Command
+{
+    string type; // "line" or "arc"
+    float distance; // For line only
+    
+    float velocity;
+
+    float desired_angle; // For arc
+    float turning_radius; // For arc
+};

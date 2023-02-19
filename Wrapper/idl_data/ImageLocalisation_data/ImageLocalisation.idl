@@ -1,0 +1,11 @@
+struct ImageLocalisation {
+    string sequenceNum;
+    sequence<unsigned short> imageID;
+    sequence<float> x;
+    sequence<float> y;
+    sequence<float> angle;
+    sequence<unsigned short> xMin;
+    sequence<unsigned short> xMax;
+    sequence<unsigned short> yMin;
+    sequence<unsigned short> yMax;
+};

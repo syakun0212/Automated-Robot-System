@@ -1,0 +1,5 @@
+struct WheelState
+{
+    float leftVelocity;
+    float rightVelocity;
+};

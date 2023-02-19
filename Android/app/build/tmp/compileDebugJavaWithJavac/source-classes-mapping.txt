@@ -1,0 +1,65 @@
+com/example/mdp_group_33/ui/main/PageViewModel.java
+ com.example.mdp_group_33.ui.main.PageViewModel
+ com.example.mdp_group_33.ui.main.PageViewModel$1
+com/example/mdp_group_33/ui/main/SectionsPagerAdapter.java
+ com.example.mdp_group_33.ui.main.SectionsPagerAdapter
+com/example/mdp_group_33/ui/main/Map.java
+ com.example.mdp_group_33.ui.main.Map
+ com.example.mdp_group_33.ui.main.Map$1
+ com.example.mdp_group_33.ui.main.Map$Cell
+com/example/mdp_group_33/ui/main/DeviceListAdapter.java
+ com.example.mdp_group_33.ui.main.DeviceListAdapter
+com/example/mdp_group_33/BuildConfig.java
+ com.example.mdp_group_33.BuildConfig
+com/example/mdp_group_33/ui/main/PlaceholderFragment.java
+ com.example.mdp_group_33.ui.main.PlaceholderFragment
+ com.example.mdp_group_33.ui.main.PlaceholderFragment$1
+com/example/mdp_group_33/ui/main/BTCon.java
+ com.example.mdp_group_33.ui.main.BTCon
+ com.example.mdp_group_33.ui.main.BTCon$AcceptThread
+ com.example.mdp_group_33.ui.main.BTCon$ConnectThread
+ com.example.mdp_group_33.ui.main.BTCon$ConnectThread$1
+ com.example.mdp_group_33.ui.main.BTCon$ConnectedThread
+com/example/mdp_group_33/ui/main/BTActivity.java
+ com.example.mdp_group_33.ui.main.BTActivity
+ com.example.mdp_group_33.ui.main.BTActivity$1
+ com.example.mdp_group_33.ui.main.BTActivity$10
+ com.example.mdp_group_33.ui.main.BTActivity$11
+ com.example.mdp_group_33.ui.main.BTActivity$12
+ com.example.mdp_group_33.ui.main.BTActivity$2
+ com.example.mdp_group_33.ui.main.BTActivity$3
+ com.example.mdp_group_33.ui.main.BTActivity$4
+ com.example.mdp_group_33.ui.main.BTActivity$5
+ com.example.mdp_group_33.ui.main.BTActivity$6
+ com.example.mdp_group_33.ui.main.BTActivity$7
+ com.example.mdp_group_33.ui.main.BTActivity$8
+ com.example.mdp_group_33.ui.main.BTActivity$9
+com/example/mdp_group_33/MainActivity.java
+ com.example.mdp_group_33.MainActivity
+ com.example.mdp_group_33.MainActivity$1
+ com.example.mdp_group_33.MainActivity$10
+ com.example.mdp_group_33.MainActivity$2
+ com.example.mdp_group_33.MainActivity$3
+ com.example.mdp_group_33.MainActivity$4
+ com.example.mdp_group_33.MainActivity$5
+ com.example.mdp_group_33.MainActivity$6
+ com.example.mdp_group_33.MainActivity$7
+ com.example.mdp_group_33.MainActivity$8
+ com.example.mdp_group_33.MainActivity$9
+com/example/mdp_group_33/ui/main/CommsFragment.java
+ com.example.mdp_group_33.ui.main.CommsFragment
+ com.example.mdp_group_33.ui.main.CommsFragment$1
+com/example/mdp_group_33/ui/main/MapControlFragment.java
+ com.example.mdp_group_33.ui.main.MapControlFragment
+ com.example.mdp_group_33.ui.main.MapControlFragment$1
+ com.example.mdp_group_33.ui.main.MapControlFragment$10
+ com.example.mdp_group_33.ui.main.MapControlFragment$11
+ com.example.mdp_group_33.ui.main.MapControlFragment$12
+ com.example.mdp_group_33.ui.main.MapControlFragment$2
+ com.example.mdp_group_33.ui.main.MapControlFragment$3
+ com.example.mdp_group_33.ui.main.MapControlFragment$4
+ com.example.mdp_group_33.ui.main.MapControlFragment$5
+ com.example.mdp_group_33.ui.main.MapControlFragment$6
+ com.example.mdp_group_33.ui.main.MapControlFragment$7
+ com.example.mdp_group_33.ui.main.MapControlFragment$8
+ com.example.mdp_group_33.ui.main.MapControlFragment$9

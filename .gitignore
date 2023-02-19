@@ -1,0 +1,22 @@
+# STM
+MDP_Test_1/Debug/
+MDP_Test_1/*.ld
+.metadata
+
+# Wrapper
+Wrapper/dds_test_pkg/messages_build/
+Wrapper/idl_data/IMU_data/IMU_build
+Wrapper/idl_data/*/*_build/
+Wrapper/idl_data/*/out/
+
+# Image
+ImageRecognition/camera/*/*.png
+ImageRecognition/camera/*.png
+ImageRecognition/camera/*.jpg
+ImageRecognition/camera/*.avi
+
+# Pycache
+**/__pycache__/
+
+# Mac Stuff
+.DS_Store

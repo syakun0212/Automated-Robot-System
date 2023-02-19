@@ -1,0 +1,6 @@
+struct IMU
+{
+    float accelerationX;
+    float accelerationY;
+    float angularVelZ;
+};

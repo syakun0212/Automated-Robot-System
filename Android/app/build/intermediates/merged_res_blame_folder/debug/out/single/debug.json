@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_obs_pop.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\obs_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_frame.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_incbtn.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\incbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_down.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapcontrol.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\activity_mapcontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_refresh.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_right.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_sendbtn.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\sendbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bluetooth.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_device_adapter_view.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\device_adapter_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_frametop.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\frametop.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_left.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_robot.PNG.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\robot.PNG"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_frameright.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\frameright.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_frameleft.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\frameleft.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_white.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\white.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_comms.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\activity_comms.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_up.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_framebtm.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\framebtm.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable_decbtn.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\drawable\\decbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\danie\\AndroidStudioProjects\\MDP_Group_33\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

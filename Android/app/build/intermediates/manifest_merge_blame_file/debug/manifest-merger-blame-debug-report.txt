@@ -1,0 +1,141 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.example.mdp_group_33"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:7:5-40
+12-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:7:18-37
+13
+14    <!-- added permission for bluetooth connection -->
+15    <uses-feature android:name="android.hardware.bluetooth" />
+15-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:10:5-63
+15-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:10:19-60
+16
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:12:5-68
+17-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+18-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:13:5-74
+18-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:13:22-71
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:14:5-75
+19-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:14:22-72
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:16:5-80
+20-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:16:22-78
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:17:5-78
+21-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:17:22-76
+22    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+22-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:18:5-73
+22-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:18:22-70
+23    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+23-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:19:5-20:47
+23-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:19:22-76
+24
+25    <!-- Include required permissions for Google Maps API to run. -->
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+32
+33    <application
+33-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:22:5-43:19
+34        android:allowBackup="true"
+34-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:23:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.1.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\bbc5c93593a298ed4610baa13b8ec69c\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:24:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:25:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:26:9-54
+40        android:supportsRtl="true"
+40-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:27:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:28:9-40
+43        <activity
+43-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:29:9-39:20
+44            android:name="com.example.mdp_group_33.MainActivity"
+44-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:30:13-65
+45            android:label="@string/app_name"
+45-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:31:13-45
+46            android:theme="@style/AppTheme.NoActionBar"
+46-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:32:13-56
+47            android:windowSoftInputMode="adjustPan" >
+47-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:33:13-52
+48            <intent-filter>
+48-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:34:13-38:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:35:17-69
+49-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:35:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:37:17-77
+51-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:37:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:40:9-42:68
+55            android:name="com.example.mdp_group_33.ui.main.BTActivity"
+55-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:41:13-71
+56            android:theme="@style/AppTheme.NoActionBar" />
+56-->C:\Users\danie\AndroidStudioProjects\MDP_Group_33\app\src\main\AndroidManifest.xml:42:13-56
+57        <!-- Needs to be explicitly declared on P+ -->
+58        <uses-library
+58-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+59            android:name="org.apache.http.legacy"
+59-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+60            android:required="false" />
+60-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\ec8636c4e54cc4c27c953a2b8c0ac390\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+61
+62        <activity
+62-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\f296cb3abcbfaf4b98667bf355dc3a00\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+63            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+63-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\f296cb3abcbfaf4b98667bf355dc3a00\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+64            android:exported="false"
+64-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\f296cb3abcbfaf4b98667bf355dc3a00\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+65            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+65-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\f296cb3abcbfaf4b98667bf355dc3a00\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+66
+67        <meta-data
+67-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\87a2c58c9ec7372281671d710598eb31\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+68            android:name="com.google.android.gms.version"
+68-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\87a2c58c9ec7372281671d710598eb31\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\87a2c58c9ec7372281671d710598eb31\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+70
+71        <provider
+71-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\c604b2971bcb29e5872764802471b55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+72            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\c604b2971bcb29e5872764802471b55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+73            android:authorities="com.example.mdp_group_33.lifecycle-process"
+73-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\c604b2971bcb29e5872764802471b55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+74            android:exported="false"
+74-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\c604b2971bcb29e5872764802471b55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+75            android:multiprocess="true" />
+75-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\danie\AndroidStudioProjects\MDP_Group__a\gradle\caches\transforms-3\c604b2971bcb29e5872764802471b55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+76    </application>
+77
+78</manifest>

@@ -1,0 +1,6 @@
+struct ImageType
+{
+    unsigned short height;
+    unsigned short width;
+    string imgData;
+};

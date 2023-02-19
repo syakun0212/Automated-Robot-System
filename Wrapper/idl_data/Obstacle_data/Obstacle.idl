@@ -1,0 +1,5 @@
+struct Obstacle {
+    sequence<unsigned short> obstaclesX;
+    sequence<unsigned short> obstaclesY;
+    sequence<char> obstacleDir;
+};

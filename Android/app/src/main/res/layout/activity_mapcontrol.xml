@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/calibrateButton"
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:text="CALIBRATE"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.366"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rstBtn" />
+
+    <Button
+        android:id="@+id/startFastestBtn"
+        android:layout_width="155dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="Start fastest"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/setBtn"
+        app:layout_constraintTop_toBottomOf="@+id/setBtn" />
+
+    <Button
+        android:id="@+id/startImageBtn"
+        android:layout_width="155dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="Start Image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/startFastestBtn"
+        app:layout_constraintTop_toBottomOf="@+id/startFastestBtn" />
+
+    <ImageButton
+        android:id="@+id/forwardImageBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="24dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/up"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@drawable/up" />
+
+    <ImageButton
+        android:id="@+id/rightImageBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/right"
+        app:layout_constraintStart_toEndOf="@+id/forwardImageBtn"
+        app:layout_constraintTop_toBottomOf="@+id/forwardImageBtn"
+        tools:srcCompat="@drawable/right" />
+
+    <ImageButton
+        android:id="@+id/leftImageBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:background="#00FFFFFF"
+        app:layout_constraintEnd_toStartOf="@+id/forwardImageBtn"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/forwardImageBtn"
+        app:srcCompat="@drawable/left"
+        tools:srcCompat="@drawable/left" />
+
+    <ImageButton
+        android:id="@+id/backImageBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="66dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/down"
+        app:layout_constraintEnd_toStartOf="@+id/rightImageBtn"
+        app:layout_constraintStart_toEndOf="@+id/leftImageBtn"
+        app:layout_constraintTop_toBottomOf="@+id/forwardImageBtn"
+        tools:srcCompat="@drawable/down" />
+
+    <Switch
+        android:id="@+id/editMapBtn"
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="Edit Map"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.366"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/decBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/obsImage"
+        app:srcCompat="@drawable/decbtn" />
+
+    <ImageView
+        android:id="@+id/obsImage"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/frame" />
+
+    <ImageView
+        android:id="@+id/obsImagebtm"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/framebtm"
+        tools:srcCompat="@drawable/framebtm" />
+
+    <ImageView
+        android:id="@+id/obsImageleft"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/frameleft"
+        tools:srcCompat="@drawable/frameleft" />
+
+    <ImageView
+        android:id="@+id/robotImage"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/robot" />
+
+    <ImageView
+        android:id="@+id/obsImageright"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/frameright"
+        tools:srcCompat="@drawable/frameright" />
+
+    <ImageView
+        android:id="@+id/obsImagetop"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/frametop"
+        tools:srcCompat="@drawable/frametop" />
+
+    <ImageButton
+        android:id="@+id/incBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toStartOf="@+id/decBtn"
+        app:layout_constraintTop_toBottomOf="@+id/obsImage"
+        app:srcCompat="@drawable/incbtn" />
+
+    <ToggleButton
+        android:id="@+id/setBtn"
+        android:layout_width="155dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="20dp"
+        android:text="ToggleButton"
+        android:textOff="Set robot"
+        android:textOn="Set Obstacle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/editMapBtn"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/rstBtn"
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="Reset Map"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.366"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editMapBtn" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
